@@ -571,7 +571,7 @@ msgstr "都市名の取得元"
 msgid ""
 "The source of the text displayed as the current location. Yahoo! and Google "
 "may offer city names in other languages"
-msgstr
+msgstr ""
 "地点として表示される都市名の取得元。"
 "Yahoo! や Google では他の言語で都市名が提供される場合があります。"
 
@@ -610,8 +610,9 @@ msgstr "天気を更新する間隔"
 msgid ""
 "Period between refreshing forecasts. Note that not all services support "
 "lower refresh times"
-msgstr
-"予測を更新する間隔。すべてのサービスが短いリフレッシュ時間をサポートしているわけではないことに注意してください。"
+msgstr ""
+"予測を更新する間隔。すべてのサービスが短いリフレッシュ時間をサポートしている"
+"わけではないことに注意してください。"
 
 #. bbcwx@oak-wood.co.uk->settings-schema.json->refreshtime->units
 msgid "minutes"
